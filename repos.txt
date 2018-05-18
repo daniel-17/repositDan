@@ -1,0 +1,10 @@
+Se quiséssemos, por exemplo, criar um arquivo de texto chamado canaltech.txt, cujo conteúdo seria a frase "Teste do tutorial", seguiríamos os seguintes passos:
+
+no terminal, executaríamos o comando vim canaltech.txt;
+dentro do Vim, pressionaríamos a tecla i para passar do Modo de Comandos para o Modo de Inserção;
+digitaríamos a frase "Teste do tutorial";
+voltaríamos ao modo de comandos com a tecla ESC;
+digitaríamos :wq, pressionando Enter logo em seguida. Esse comando (:wq) é utilizado para salvar (write) o arquivo e sair (quit) do Vim
+
+
+.
