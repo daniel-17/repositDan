@@ -7,4 +7,7 @@ voltaríamos ao modo de comandos com a tecla ESC;
 digitaríamos :wq, pressionando Enter logo em seguida. Esse comando (:wq) é utilizado para salvar (write) o arquivo e sair (quit) do Vim
 
 
+
 alterando o texto.
+
+segunda alteraçao no texto
