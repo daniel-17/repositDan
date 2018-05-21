@@ -2,4 +2,6 @@ teste repositorio gitHub
 
 primeiro envio
 
+segundo envio resolvendo conflitos
+
 
