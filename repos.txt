@@ -11,3 +11,6 @@ digitaríamos :wq, pressionando Enter logo em seguida. Esse comando (:wq) é uti
 alterando o texto.
 
 segunda alteraçao no texto
+
+terceira alteraçao no arquivo
+
