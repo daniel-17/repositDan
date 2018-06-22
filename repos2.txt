@@ -1,0 +1,11 @@
+teste repositorio gitHub
+
+primeiro envio
+
+
+teste resolvendo conflitos com duas branchs
+
+segundo envio resolvendo conflitos- merge
+
+
+
